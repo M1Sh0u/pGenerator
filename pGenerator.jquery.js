@@ -111,7 +111,11 @@
 			}
 
 			if(settings.displayElement !== null) {
-				$(settings.displayElement).text(passwordString);
+                if($(settings.displayElement).is("input")) {
+                    $(settings.displayElement).val(passwordString);
+                } else {
+                    $settings.displayElement).text(passwordString);
+                }
 			}
 
 			settings.onPasswordGenerated(passwordString);
