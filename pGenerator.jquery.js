@@ -114,7 +114,7 @@
                 if($(settings.displayElement).is("input")) {
                     $(settings.displayElement).val(passwordString);
                 } else {
-                    $settings.displayElement).text(passwordString);
+                    $(settings.displayElement).text(passwordString);
                 }
 			}
 
