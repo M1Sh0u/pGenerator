@@ -1,0 +1,26 @@
+{
+  "name": "pgenerator",
+  "version": "1.0.3",
+  "description": "jQuery plugin which generates strong passwords by clicking a DOM element.",
+  "main": "pGenerator.jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M1Sh0u/pGenerator.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "password-generator",
+    "secure-passwords-generator",
+	"javascript-password-generator"
+  ],
+  "author": "Mihai MATEI <mihai.matei@outlook.com> (https://www.accountspassword.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M1Sh0u/pGenerator/issues"
+  },
+  "homepage": "https://accountspassword.com/password-generator-jquery-plugin"
+}
