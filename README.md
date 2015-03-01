@@ -2,6 +2,8 @@ pGenerator
 =========
 Feel free to use this plugin for your projects
 
+Visit the official page for an working demo @ https://accountspassword.com/password-generator-jquery-plugin
+
 How to
 =========
 The pGenerator can be used as:
