@@ -1,5 +1,5 @@
 /*!
- * pGenerator jQuery Plugin v1.0.0
+ * pGenerator jQuery Plugin v1.0.4
  * http://accountspassword.com/password-generator-jquery-plugin
  *
  * Created by AccountsPassword.com
