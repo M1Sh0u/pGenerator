@@ -17,6 +17,7 @@ The pGenerator can be used as:
         'lowercase': true,
         'numbers':   true,
         'specialChars': true,
+        'additionalSpecialChars': [],
         'onPasswordGenerated': function(generatedPassword) { }
     });
     
