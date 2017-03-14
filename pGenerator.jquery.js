@@ -34,7 +34,7 @@
 				upper_letters_array.push(i);
 			for(i = 97; i < 123; i++)
 				lower_letters_array.push(i);
-			special_chars_array = [33,35,64,36,38,42,91,93,123,125,92,47,63,58,59,95,45,53];
+			special_chars_array = [33,35,64,36,38,42,91,93,123,125,92,47,63,58,59,95,45];
 
 			return this.each(function(){
 
