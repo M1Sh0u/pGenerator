@@ -135,7 +135,13 @@
             password = shuffle(password).join('');
 
             if(settings.passwordElement !== null) {
-                $(settings.passwordElement).val(password);
+                 if (typeof settings.passwordElement === 'string') {
+                    $(settings.passwordElement).val(password);
+                }else if (Array.isArray(settings.passwordElement)){
+                    settings.passwordElement.forEach(function (item) {
+                        $(item).val(password);
+                    });
+                }
             }
 
             if(settings.displayElement !== null) {
