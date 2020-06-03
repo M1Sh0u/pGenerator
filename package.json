@@ -17,7 +17,7 @@
     "secure-passwords-generator",
 	"javascript-password-generator"
   ],
-  "author": "Mihai MATEI <mihai.matei@outlook.com> (https://www.accountspassword.com)",
+  "author": "Mihai MATEI <mihai.matei@outlook.com> (https://github.com/M1Sh0u/pGenerator)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/M1Sh0u/pGenerator/issues"
